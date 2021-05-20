@@ -53,7 +53,7 @@ spec:
     spec:
       containers:
         - name: eureka
-          image: felipemeriga1/eureka-server:latest
+          image: vogetisameer12/eureka-server:latest
           ports:
             - containerPort: 8761
           resources:

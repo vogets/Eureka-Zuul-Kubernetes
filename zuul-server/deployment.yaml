@@ -30,6 +30,6 @@ spec:
     spec:
       containers:
         - name: zuul-server
-          image: felipemeriga1/zuul-server:latest
+          image: vogetisameer12/zuul-server:latest
           ports:
             - containerPort: 9090
